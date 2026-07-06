@@ -19,7 +19,7 @@ import tiktoken
 #                      Configuration
 # ==============================================================================
 
-API_KEY      = "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"
+API_KEY      = "X"
 MODEL = "gpt-5.4"
 TEMP = 0.0
 MAX_RETRY = 3
