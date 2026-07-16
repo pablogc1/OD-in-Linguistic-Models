@@ -4,7 +4,7 @@ Source code, pipeline, and curated corpora for computing Ontological Differentia
 
 **Author:** P. García-Cuadrillero
 
-This repository contains the complete pipeline for computing Strong Ontological Differentiation (SOD) and Termination Level (TL) across linguistic corpora, together with the scripts used to generate and curate the six corpora used in our research. The pipeline and its outputs serve as the computational foundation for multiple publications based on the OD framework.
+This repository contains the complete pipeline for computing Strong Ontological Differentiation (SOD) and Termination Level (TL) across linguistic corpora, together with the scripts used to generate and curate the six corpora used in our research. The pipeline and its outputs serve as the computational foundation for multiple publications based on the OD framework. This repository is under a license Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 ## Overview
 
